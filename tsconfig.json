@@ -1,0 +1,12 @@
+{
+  "include": ["lib/**/*.ts"],
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2020",
+    "module": "Preserve",
+    "noEmit": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "allowImportingTsExtensions": true,
+  }
+}
