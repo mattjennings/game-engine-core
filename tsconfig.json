@@ -1,5 +1,6 @@
 {
-  "include": ["lib/**/*.ts"],
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"],
   "compilerOptions": {
     "strict": true,
     "target": "ES2020",

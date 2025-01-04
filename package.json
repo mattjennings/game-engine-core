@@ -8,24 +8,24 @@
   },
   "exports": {
     ".": {
-      "types": "./lib/index.ts",
-      "import": "./lib/index.ts",
-      "default": "./lib/index.ts"
+      "types": "./index.ts",
+      "import": "./index.ts",
+      "default": "./index.ts"
     },
     "./math": {
-      "types": "./lib/math/index.ts",
-      "import": "./lib/math/index.ts",
-      "default": "./lib/math/index.ts"
+      "types": "./math/index.ts",
+      "import": "./math/index.ts",
+      "default": "./math/index.ts"
     },
     "./motion": {
-      "types": "./lib/motion/index.ts",
-      "import": "./lib/motion/index.ts",
-      "default": "./lib/motion/index.ts"
+      "types": "./motion/index.ts",
+      "import": "./motion/index.ts",
+      "default": "./motion/index.ts"
     },
     "./state": {
-      "types": "./lib/state/index.ts",
-      "import": "./lib/state/index.ts",
-      "default": "./lib/state/index.ts"
+      "types": "./state/index.ts",
+      "import": "./state/index.ts",
+      "default": "./state/index.ts"
     }
   }
 }
